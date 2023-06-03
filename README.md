@@ -3,6 +3,7 @@ Deployed link :- https://kanbanboard-tg5u.onrender.com
 
 Github link :- https://github.com/Janamjay/kanbanBoard/edit/main
 ![image](https://github.com/ApoorvVerma98/KanbanBoard/assets/126326376/7d2e46aa-c9d7-4461-a3bd-a94466b7bb28)
+![image](https://github.com/ApoorvVerma98/KanbanBoard/assets/126326376/e241d520-b717-4906-ac1e-7c9593f26786)
 
 ********
 
